@@ -1,6 +1,3 @@
 # Typescript Template With Different Development Packs Added
 
--Typescript
--Redux
--Sass
--React-icon
+-Typescript, Redux, Sass, React-icon
